@@ -1,0 +1,31 @@
+{{ partial "header.html" . }}
+    {{- range .Data.Pages }}
+    {{- if .Title }}
+    <article>
+    <header class="article-header">
+      <div class="article-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+      {{- if eq .Lang "ja" }}
+      <time class="article-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z" }}">{{ .Date.Format "2006年01月02日" }}</time>
+      {{- else }}
+      <time class="article-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      {{- end }}
+    </header>
+    {{- end }}
+    </article>
+    {{- end }}
+    <footer></footer>
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type":"Organization",
+        "name":"hayami.blog",
+        "logo":{
+            "@type":"ImageObject",
+            "url":"https://hayami.blog/images/logo.svg",
+            "width":"600",
+            "height":"600"
+        }
+    }
+    </script>
+  </body>
+</html>

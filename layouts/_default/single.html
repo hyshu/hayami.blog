@@ -1,0 +1,53 @@
+{{ partial "header.html" . }}
+    <article>
+    {{ if .Title -}}
+    <header class="article-header">
+      <h1 class="article-title">{{ .Title }}</h1>
+      {{ if eq .Lang "ja" -}}
+      <time class="article-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z" }}">{{ .Date.Format "2006年01月02日" }}</time>
+      {{ else -}}
+      <time class="article-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      {{ end -}}
+      </header>
+      {{ end -}}
+      <div class="article-body">
+      {{ .Content }}
+      </div>
+      <footer>
+      </footer>
+    </article>
+    <script type="application/ld+json">
+    {
+        "@context":"http://schema.org",
+        "@type":"NewsArticle",
+        "mainEntityOfPage": {
+            "@type":"WebPage",
+            "@id":"{{ .Permalink }}"
+        },
+        "headline": "{{ .Title }}",
+        "image":{
+        "@type":"ImageObject",
+        "url":"{{ .Site.BaseURL }}images/{{ .Params.ogimage }}",
+        "width":"1600",
+        "height":"840"
+        },
+        "datePublished":"{{ .Date.Format "2006-01-02T15:04:05Z" }}",
+        "dateModified":"{{ .Lastmod.Format "2006-01-02T15:04:05Z" }}",
+        "author":{
+            "@type":"Person",
+            "name":"{{ .Params.author }}"
+        },
+        "publisher":{
+            "@type":"Organization",
+            "name":"{{ .Site.Params.publisher }}",
+            "logo":{
+                "@type":"ImageObject",
+                "url":"{{ .Site.BaseURL }}images/logo-600.png",
+                "width":"600",
+                "height":"600"
+            }
+        }
+    }
+    </script>
+  </body>
+</html>

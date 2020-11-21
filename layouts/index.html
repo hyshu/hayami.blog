@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+    {{- range .Data.Pages }}
+    {{- if .Title }}
+    <article>
+    <header class="article-header">
+      <div class="article-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+      <br>
+    </header>
+    {{- end }}
+    </article>
+    {{- end }}
+    <footer></footer>
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type":"Organization",
+        "name":"hayami.blog",
+        "logo":{
+            "@type":"ImageObject",
+            "url":"https://hayami.blog/images/logo.svg",
+            "width":"600",
+            "height":"600"
+        }
+    }
+    </script>
+  </body>
+</html>

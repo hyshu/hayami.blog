@@ -1,0 +1,90 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>{{ if .Params.pagetitle }}{{ .Params.pagetitle }}{{ else }}{{ .Title }}{{ end }}</title>
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+    <meta property="og:title" content="{{ if .Params.ogtitle }}{{ .Params.ogtitle }}{{ else }}{{ .Title }}{{ end }}" />
+    <meta property="og:description" content="{{ if .Params.ogdescription }}{{ .Params.ogdescription }}{{ else }}{{ .Description }}{{ end }}" />
+    <meta property="og:type" content="website" />
+    {{- if eq .Lang "ja" }}
+    <meta property="og:locale" content="ja_JP" />
+    {{- else }}
+    <meta property="og:locale" content="en_US" />
+    {{- end }}
+    <meta property="og:url" content="{{ .Permalink }}" />
+    {{- if .IsPage }}
+    {{- if .Params.ogimage }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/{{ .Params.ogimage }}" />
+    {{- else }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/logo-og.png" />
+    {{- end }}
+    {{- else }}
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/logo-og.png" />
+    {{- end }}
+  
+    <meta property="fb:pages" content="1849242982004604" />
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="{{ .Site.Params.twitterid }}" />
+    <meta name="twitter:title" content="{{ .Title }}" />
+    {{- if .IsPage }}
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}images/{{ .Params.ogimage }}" />
+    <meta name="twitter:description" content="{{ if .Params.ogdescription }}{{ .Params.ogdescription }}{{ else }}{{ .Description }}{{ end }}" />
+    {{- else }}
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}images/logo-600.png" />
+    <meta name="twitter:description" content="hayami.blog" />
+    {{- end }}
+  
+    <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="{{ .Site.Title }}" />
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="shortcut icon" type="image/png" href="{{ .Site.BaseURL }}images/favicon.png">
+  
+    {{- if .IsPage }}
+    <meta name="description" content="{{ .Description }}">
+    {{- end }}
+    <meta name="keywords" content="{{ range .Keywords }}{{ . }},{{ end }}">
+    <meta name="author" content="{{ .Params.author }}">
+ 
+    <meta name="google-site-verification" content="jgWqS97ZIv18vk0RoVGJddpA3ROB8_y5ndX7lAQslk8" /> 
+    
+    {{- if eq .Lang "na" }}
+    <script type="text/javascript">
+        function browserLanguage() {
+            try {
+                return (navigator.browserLanguage || navigator.language || navigator.userLanguage).substr(0,2)
+            }
+            catch(e) {
+                return undefined;
+            }
+        }
+        if (browserLanguage().indexOf("ja") != -1) {
+            if (location.pathname.indexOf("/ja") != 0) {
+                location.replace("https://hayami.blog/ja"+location.pathname);
+            }
+        } else {
+            if (location.pathname.indexOf("/en") != 0) {
+                location.replace("https://hayami.blog/en"+location.pathname);
+            }
+        }
+    </script>
+    {{- end }}
+    </style>
+    </head>
+  <body>
+    <nav>
+      <a href="{{ .Site.BaseURL }}{{ .Lang }}" id="logo"><img src="{{ .Site.BaseURL }}images/logo.svg" alt="{{ .Site.Title }}"></a>
+      <div class="lang">
+        {{- if .IsPage }}
+        {{ else }}
+        {{- if eq .Lang "ja" }}
+        <a href="../en/">English</a>
+        {{- else }}
+        <a href="../ja/">Japanese</a>
+        {{- end }}
+        {{- end }}
+     </div>
+    </nav>

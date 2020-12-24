@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hayami.blog</title>
     <link>https://hayami.blog/en/</link>
     <description>Recent content on hayami.blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>na</language>
-    <lastBuildDate>Tue, 07 May 2019 00:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://hayami.blog/en/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>na</language><atom:link href="https://hayami.blog/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>zoome founded</title>
       <link>https://hayami.blog/en/zoome/</link>
@@ -54,7 +49,7 @@ From within the store, people wearing Apple staff t-shirts came trailing out in 
       <guid>https://hayami.blog/en/2018-bonsai-1/</guid>
       <description>I participated in the ”An exhibition and sale of succulent plant design works and Japanese style tray landscapes” hosted by The &amp;ldquo;I Love Plants club&amp;rdquo; I joined.
 At the entrance there was a cherry-blossom bonsai.
-  Students&amp;rsquo; work Nakamura&amp;rsquo;s work.
+  Students&#39; work Nakamura&amp;rsquo;s work.
         Kimura&amp;rsquo;s work.
     Okamoto&amp;rsquo;s work.
       Siotsu&amp;rsquo;s work.
@@ -110,12 +105,12 @@ Hypnum plumaeforme   Necessary to cover the peat.</description>
       
       <guid>https://hayami.blog/en/2017-kyoto/</guid>
       <description>Baikoudo (梅香堂)   IL PAPPALARDO     　This menu is &amp;ldquo;じっくり煮込んだ丹波篠山産 イノシシと上賀茂 高橋農園さんの有機堀川ゴボウのラグー 手打ちフェットチーネ&amp;rdquo;.
-Open: 11:30 am - 3:00 pm, and 6:00 pm - 10:00 pm
+ Open: 11:30 am - 3:00 pm, and 6:00 pm - 10:00 pm
 Close: Tuesday
 IL PAPPALARDO, Myohoin Maekawacho 451-1, Higashiyama-ku, Kyoto Prefecture 605-0932, Japan
-MARUMO BAKERY (マルモベーカリー)   Open: 7:00 am - 7:00 pm
+MARUMO BAKERY (マルモベーカリー)    Open: 7:00 am - 7:00 pm
 マルモベーカリー, Fukakusa Nishiuracho 4-chome 51-1, Fushimi-ku, Kyoto Prefecture 612-0029, Japan
-% ARABICA Kyoto Higashiyama (アラビカ京都 東山)   Open: 8:00 am - 6:00 pm</description>
+% ARABICA Kyoto Higashiyama (アラビカ京都 東山)    Open: 8:00 am - 6:00 pm</description>
     </item>
     
     <item>

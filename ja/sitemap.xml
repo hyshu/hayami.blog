@@ -1,31 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://hayami.blog/ja/2019/</loc>
     <lastmod>2019-12-31T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hayami.blog/ja/</loc>
-    <lastmod>2019-12-31T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hayami.blog/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="na"
-                href="https://hayami.blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/"
-                />
   </url>
   
   <url>
@@ -215,7 +194,6 @@
   
   <url>
     <loc>https://hayami.blog/ja/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -234,8 +212,26 @@
   </url>
   
   <url>
+    <loc>https://hayami.blog/ja/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="na"
+                href="https://hayami.blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/"
+                />
+  </url>
+  
+  <url>
     <loc>https://hayami.blog/ja/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

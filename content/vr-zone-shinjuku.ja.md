@@ -3,7 +3,7 @@ date = "2018-06-04T00:00:00+09:00"
 title = "VR ZONE SHINJUKU に行った"
 pagetitle = "VR ZONE SHINJUKU 体験。ドラクエも有り"
 description = ""
-ogimage = "vr-zone-shinjuku/ogp.jpg"
+ogimage = "/images/vr-zone-shinjuku/ogp.jpg"
 keywords = []
 +++
 

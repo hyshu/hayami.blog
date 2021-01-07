@@ -2,7 +2,7 @@
 date = "2020-11-24T00:00:00+09:00"
 title = "敬語翻訳アプリをリリースした"
 description = ""
-ogimage = "ogp.png"
+ogimage = "/images/honorific-converter/ogp.png"
 keywords = [""]
 +++
 

@@ -3,7 +3,7 @@ date = "2017-06-25T00:00:00+09:00"
 title = "VR Tech Tokyo #7 に行った"
 pagetitle = "【参加レポート】VR Tech Tokyo #7 に行った"
 description = "VR Tech Tokyo の参加レポート。日本のVR業界の熱さを感じるイベント。登壇者によるセッションと体験会の二部構成"
-ogimage = "vr-tech-tokyo-7/ogp.jpg"
+ogimage = "/images/vr-tech-tokyo-7/ogp.jpg"
 keywords = ["xR Tech Tokyo", "STYLY Suite"]
 +++
 

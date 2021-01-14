@@ -8,6 +8,7 @@ li { margin-left: 1.5em; padding: 0; word-break: break-all }
   nav { max-width: 720px; margin: 0 auto }
   div { font-size: 1.05em }
 }
+
 @media screen and (max-width: 732px) {
   .article-header, .article-body, footer { margin-left: 12px; margin-right: 12px}
   nav { margin-left: 7px; margin-right: 7px }
@@ -59,4 +60,11 @@ article a:hover { color: #1f3134; border-bottom: 1px solid #000 }
   h1 { font-size: 1.3em }
   h2 { font-size: 1.2em }
   h3 { font-size: 1em }
+}
+
+@media (prefers-color-scheme: dark) {
+  body { background-color: #000 }
+  div, header { color: #aac }
+  article a {color: #aac; text-decoration: none; border-bottom: 1px dotted #aac }
+  article a:hover { color: #aac; border-bottom: 1px solid #000 }
 }

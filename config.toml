@@ -2,7 +2,6 @@ languageCode                 = "na"
 defaultContentLanguage = "na"
 baseURL                          = "https://hayami.blog/"
 enableRobotsTXT            = true
-googleAnalytics                = "UA-93018200-5"
 [params]
 publisher = "hayami.blog"
 ogimage  = "logo.svg"

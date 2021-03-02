@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://hayami.blog/ja/2020/</loc>
     <lastmod>2020-12-31T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/honorific-converter/</loc>
     <lastmod>2020-11-24T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/2019/</loc>
     <lastmod>2019-12-31T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/2019-bonsai-total/</loc>
     <lastmod>2019-12-21T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/zoome/</loc>
     <lastmod>2019-05-07T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -35,14 +26,10 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/zoome/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/2018/</loc>
     <lastmod>2018-12-31T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/2018-gyoen/</loc>
     <lastmod>2018-12-20T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -55,39 +42,25 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/2018-gyoen/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/2018-bonsai-total/</loc>
     <lastmod>2018-12-02T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/mt-fuji/</loc>
     <lastmod>2018-08-18T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/meotobuchi-onsen/</loc>
     <lastmod>2018-07-14T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/vr-zone-shinjuku/</loc>
     <lastmod>2018-06-04T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/asama-autocamp/</loc>
     <lastmod>2018-06-01T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/kusatsu-onsen/</loc>
     <lastmod>2018-05-12T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/apple-store-shinjuku/</loc>
     <lastmod>2018-04-07T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -100,9 +73,7 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/apple-store-shinjuku/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/2018-bonsai-1/</loc>
     <lastmod>2018-03-24T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -115,14 +86,10 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/2018-bonsai-1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/2018-okinawa/</loc>
     <lastmod>2018-03-11T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/a7r3/</loc>
     <lastmod>2018-01-21T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -135,9 +102,7 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/a7r3/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/2017/</loc>
     <lastmod>2017-12-31T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -150,9 +115,7 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/2017/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/kokedama/</loc>
     <lastmod>2017-12-17T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -165,9 +128,7 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/kokedama/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/2017-kyoto/</loc>
     <lastmod>2017-10-29T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -180,14 +141,10 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/2017-kyoto/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/vr-tech-tokyo-7/</loc>
     <lastmod>2017-06-25T00:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/2016/</loc>
     <lastmod>2016-12-31T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -200,9 +157,7 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/2016/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -219,9 +174,7 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/</loc>
     <xhtml:link
                 rel="alternate"
@@ -238,9 +191,7 @@
                 hreflang="ja"
                 href="https://hayami.blog/ja/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hayami.blog/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -258,5 +209,4 @@
                 href="https://hayami.blog/ja/tags/"
                 />
   </url>
-  
 </urlset>

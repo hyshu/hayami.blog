@@ -64,7 +64,7 @@ article a:hover { color: #1f3134; border-bottom: 1px solid #000 }
 
 @media (prefers-color-scheme: dark) {
   body { background-color: #000 }
-  div, header { color: #aac }
-  article a {color: #aac; text-decoration: none; border-bottom: 1px dotted #aac }
-  article a:hover { color: #aac; border-bottom: 1px solid #000 }
+  div, header { color: #aaaaba }
+  article a {color: #aaaaba; text-decoration: none; border-bottom: 1px dotted #aaaaba }
+  article a:hover { color: #aaaaba; border-bottom: 1px solid #000 }
 }

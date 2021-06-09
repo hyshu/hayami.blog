@@ -50,12 +50,6 @@ keywords = []
 
 {{< figure src="/images/apple-store-shinjuku/2.jpg" title="Apple Store 新宿のオープンの人混み" >}}
 
-最初に見に行ったのはもちろんニュースで話題になった使う時にウィーンてなる電源である。
-
-{{< youtube-2x1 NtdoLWyNdXc >}}
-
-確かにめっちゃウィーンってなってる。両手が塞がっていても安心だ。
-
 店内のパソコンは全て特製の壁紙になっていて、新宿に来たって気分が味わえる。
 
 {{< figure src="/images/apple-store-shinjuku/3.jpg" title="Apple Store 新宿の様子" >}}

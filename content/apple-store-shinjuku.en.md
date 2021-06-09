@@ -41,7 +41,6 @@ I lined up in the last stretch, five minutes to opening, and it took about an ho
 {{< figure src="/images/apple-store-shinjuku/1.jpg" title="" >}}
 {{< figure src="/images/apple-store-shinjuku/2.jpg" title="" >}}
 
-{{< youtube-2x1 NtdoLWyNdXc >}}
 {{< figure src="/images/apple-store-shinjuku/3.jpg" title="" >}}
 
 {{< figure src="/images/apple-store-shinjuku/4.jpg" title="" >}}

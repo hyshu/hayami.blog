@@ -1,6 +1,6 @@
 +++
 date = "2020-11-24T00:00:00+09:00"
-title = "敬語翻訳アプリをリリースした"
+title = "敬語翻訳をリリースした"
 description = ""
 ogimage = "/images/honorific-converter/ogp.png"
 keywords = [""]
@@ -8,7 +8,7 @@ keywords = [""]
 
 {{< figure src="/images/honorific-converter/eyecatch.png" title="" >}}
 
-本日、合同会社zoomeにて敬語翻訳アプリをリリースした。
+本日、合同会社zoomeにて敬語翻訳をリリースした。
 
 {{< link title="https://honorific.app"   url="https://honorific.app" >}}
 

@@ -67,5 +67,5 @@ article a:hover { color: #1f3134; border-bottom: 1px solid #000 }
   div, header { color: #c8c8c8 }
   .article-date { font-size: 0.8em; color: #1680ac }
   article a {color: #c8c8c8; text-decoration: none; border-bottom: 1px dotted #c8c8c8 }
-  article a:hover { color: #c8c8c8; border-bottom: 1px solid #000 }
+  article a:hover { color: #c8c8c8; border-bottom: 1px solid #c8c8c8 }
 }

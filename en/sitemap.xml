@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hayami.blog/en/zoome/</loc>
-    <lastmod>2019-05-07T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/zoome/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hayami.blog/en/zoome/"
-                />
-  </url><url>
     <loc>https://hayami.blog/en/2018-gyoen/</loc>
     <lastmod>2018-12-20T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -26,71 +13,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hayami.blog/en/2018-gyoen/"
-                />
-  </url><url>
-    <loc>https://hayami.blog/en/mt-fuji/</loc>
-    <lastmod>2018-08-18T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/mt-fuji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hayami.blog/en/mt-fuji/"
-                />
-  </url><url>
-    <loc>https://hayami.blog/en/okukinu-onsen/</loc>
-    <lastmod>2018-07-14T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/okukinu-onsen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hayami.blog/en/okukinu-onsen/"
-                />
-  </url><url>
-    <loc>https://hayami.blog/en/vr-zone-shinjuku/</loc>
-    <lastmod>2018-06-04T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/vr-zone-shinjuku/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hayami.blog/en/vr-zone-shinjuku/"
-                />
-  </url><url>
-    <loc>https://hayami.blog/en/asama-autocamp/</loc>
-    <lastmod>2018-06-01T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/asama-autocamp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hayami.blog/en/asama-autocamp/"
-                />
-  </url><url>
-    <loc>https://hayami.blog/en/kusatsu-onsen/</loc>
-    <lastmod>2018-05-12T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/kusatsu-onsen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hayami.blog/en/kusatsu-onsen/"
                 />
   </url><url>
     <loc>https://hayami.blog/en/apple-store-shinjuku/</loc>
@@ -117,19 +39,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hayami.blog/en/2018-bonsai-1/"
-                />
-  </url><url>
-    <loc>https://hayami.blog/en/a7r3/</loc>
-    <lastmod>2018-01-21T00:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/a7r3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hayami.blog/en/a7r3/"
                 />
   </url><url>
     <loc>https://hayami.blog/en/2017/</loc>

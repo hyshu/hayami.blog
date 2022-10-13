@@ -1,3 +1,4 @@
+body { background-color: #ddd }
 h1, h2, div, header, ul, ol, body { padding: 0px; margin: 0px }
 div, header { font-family: "TsukuARdGothic-Regular", sans-serif; color: #1f3134 }
 ol, ul { margin-top: 2em; margin-bottom: 2em }
@@ -61,6 +62,7 @@ article a:hover { color: #1f3134; border-bottom: 1px solid #000 }
   h2 { font-size: 1.2em }
   h3 { font-size: 1em }
 }
+
 
 @media (prefers-color-scheme: dark) {
   body { background-color: #000 }

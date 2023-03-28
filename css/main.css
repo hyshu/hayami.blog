@@ -54,7 +54,7 @@ article a:hover { color: #1f3134; border-bottom: 1px solid #000 }
 
 @media screen and (max-width: 732px) {
   .youtube-content-2x1 { position: relative; width: 100%; padding: 50% 0 0 0 }
-  .youtube-content-4x3 { position: relative; width: 100%; padding: 66% 0 0 0 }
+  .youtube-content-16x9 { position: relative; width: 100%; padding: 56.25% 0 0 0 }
   .youtube-embed { position:absolute; top: 0; left: 0; width: 100%; height: 99% }
   .article-title { font-size: 1.3em }
   .ad {display:none}

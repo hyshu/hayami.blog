@@ -1,0 +1,193 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>2023年を振り返る</title>
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+    <meta property="og:title" content="2023年を振り返る" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta property="og:url" content="https://hayami.blog/ja/2023/" />
+    <meta property="og:image" content="https://hayami.blog/images/ogp.2023.jpg" />
+  
+    <meta property="fb:pages" content="1849242982004604" />
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="" />
+    <meta name="twitter:title" content="2023年を振り返る" />
+    <meta name="twitter:image" content="https://hayami.blog/images/ogp.2023.jpg" />
+    <meta name="twitter:description" content="" />
+  
+    <link rel="alternate" type="application/rss+xml" href="https://hayami.blog/index.xml" title="hayami.blog" />
+    <link rel="canonical" href="https://hayami.blog/ja/2023/">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="shortcut icon" type="image/png" href="https://hayami.blog/images/favicon.png">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+ 
+    <meta name="google-site-verification" content="jgWqS97ZIv18vk0RoVGJddpA3ROB8_y5ndX7lAQslk8" />
+    </style>
+    </head>
+  <body>
+    <nav>
+      <a href="https://hayami.blog/ja" id="logo"><img src="https://hayami.blog/images/logo.svg" alt="hayami.blog"></a>
+      <div class="lang">
+        
+     </div>
+    </nav>
+
+    <article>
+    <header class="article-header">
+      <h1 class="article-title">2023年を振り返る</h1>
+      <time class="article-date" datetime="2023-12-31T00:00:00Z">2023年12月31日</time>
+      </header>
+      <div class="article-body">
+      </div>
+<div class="figure">
+	<img src="/images/2023/eyecatch.jpg">
+</div>
+<div class="article-body">
+<p>コロナ禍は概ね終息した。<br>
+二名の知人から罹ったという連絡が来たが、どちらも風邪と大差ない症状であっさり治ったとの事だった。</p>
+<h1 id="深層学習">深層学習</h1>
+<p>プログラミングを始めた中学生の頃にチューリングテストを知った時は心躍ったものだが、合格しそうなAI（人工知能）が突如として話題になり、しかも数ヶ月に誰でも無料で使える様になるとは思ってもみなかった。</p>
+<p>去年も書いたが、GPTを始めとした生成方式の言語モデルは、事前の文章を基に続きを出力する仕組みとなっている。</p>
+<p>例えば「一石二鳥とは」と書くと、その続きとなる文章の候補が出力される。<br>
+質疑応答用の調整を加えた言語モデルの場合、例えば「Q.一石二鳥とは？ A.」と書くと、質問に対する回答が出力できる。<br>
+（書式は言語モデルごとに異なる）</p>
+<p>一方、去年まで主流であったBERTは主に文章の判別と推測を行うモデルだ。<br>
+例えば「今日は[MASK]天気ですね」と書くと、[MASK]の部分に「良い」などの候補が出力される。
+ちなみに[MASK]は必ずしも必要ではなく、「今日は良い天気ですね」の「良い」の代わりとなる候補も出力できる。<br>
+調整（fine tuning）を加えたり、事前学習の方法を工夫する事で応用が効き、最近は文章を読み上げる「Bert-VITS2」という音声生成手法が話題になっている。</p>
+<p>ただしChatGPTは驚異的な柔軟性と精度があり、これだけでは説明がつかない。<br>
+深層学習以外の技術を組み合わせているのだと思うが、私には全く仕組みが分からない。</p>
+<p>BERTもまだまだ有用な言語モデルだが、生成方式の方が汎用的だった為、こちらが目覚ましい成果を上げる様になり、急速な発展が始まる事になった。</p>
+<h1 id="敬語事業">敬語事業</h1>
+<p>去年の記事にChatGPTを試していくと書いたが、3月に早速APIが公開されたので、文章の生成機能を敬語翻訳に実装した。</p>
+<p>敬語翻訳は長い間ベータ版だった。</p>
+<p>敬語で書いた文章を確認する為のアプリとしては多くの方にご利用いただいているものの、敬語があまり書けない方に向けた機能が少なかった為だ。
+自分が敬語の適当だった学生時代、もし本アプリがあっても使い道があるか微妙な所で、もっと幅広い需要を満たさなければ正式版には出来ないと考えていた。</p>
+<p>今回の生成機能でようやく足りなかった要素が揃ったと感じた。
+なので、敬語翻訳は公開してから2年と4ヶ月でようやく正式版として公開する事が出来た。</p>
+<p>しかしながら、これからの時代は無駄にならない技術資産を見つけ、築いていく必要があると切に感じる。<br>
+その事を考慮し、現在のAIでは作る事が難しい敬語変換辞書の拡充を公開当初から行なっていたが、やはり正解だった。</p>
+<h1 id="sns事業">SNS事業</h1>
+<p>元々は質問箱アプリを作ろうかと考えていたが、時代の流れを鑑みて位置情報共有SNSを作ることにした。</p>
+<p>位置情報共有アプリは想像以上に作る事が難しく、作り始めた去年の12月から今年の3月頭までの間は非常にストレスフルな日々が続いた。</p>
+<p>一通りの機能が揃うと、その後は楽しい開発になった。<br>
+ただし、ビジネスとしての収益率が低い為、あまり注力できないという悩みがある。<br>
+目指しているアプリの形になるまであと2年はかかると思う。</p>
+<p>Battyの公開が遅すぎた為、残念ながら最初の波には乗れなかったが、維持費もほとんどかからないし、人気の出得る狙いがあるので作り続けていく。</p>
+<p>また、スマホのGPS機能を用いたアプリは作ってみなければ分からない想定外の動作が多く、そういったノウハウの蓄積も会社の資産になったと思う。</p>
+<p>ちなみに、予想していた所とは違ったが、やはり海外産の強力なアプリが登場し、日本国内の一番人気に追従する形で最初の利用者獲得競争は落ち着いた。<br>
+ただし、この二つのアプリは日本の App Store の全体ランキングで上位だったにも関わらず、ある日突然カテゴリーランキングにすら載らない現象が度々起きていたため、どちらの方が実際に人気があるのかは判断が出来ない。</p>
+<h1 id="アプリ調査">アプリ調査</h1>
+<p>実は人気の出やすいアプリの傾向がおおよそ分かった為、毎年のアプリ調査をする理由が無くなりつつある。</p>
+<p>一覧を眺めるだけでも大体の流行が分かるので、全てをインストールする必要も無い。</p>
+<p>とはいえ、作業としては効率化が進んでいて、毎日の習慣として少しずつアプリをインストールすれば大した苦にもならないので、今後も続けていく予定だ。</p>
+<p>ただし2023年の分は今年が忙しすぎた為、あまり進んでいない。</p>
+<p>落ち着いて作業の出来た年が無いですね。</p>
+<h1 id="英語の勉強">英語の勉強</h1>
+<p>十年以上前から、AIの発達によって英語の学習が不要になるのではないかと考えていた。</p>
+<p>それに加え、プログラマーをしていると日常的に英語を見る機会が多く、機械翻訳を活用しつつ読めば困る状況も少なかったこともあって、本格的な勉強をしてこなかった。</p>
+<p>ところが、AIの発展が現実のものになってくると、読める事が無駄になる可能性は僅少だと分かってきた。<br>
+日本語に訳した際に細かい含蓄が失われてしまう為だ。<br>
+人間の翻訳家でさえも限界があるくらいだから、正確な情報を知るには原文が読めなければならない。</p>
+<p>反面、書く事は平坦な分かりやすい日本語であれば、いずれAIが正確に翻訳できる様になると予想している。<br>
+状況に応じて丁寧に書いたり、逆にスラングを含めたりもしてくれるだろうから、むしろ自分の考えをしっかりと日本語で書ける技術の方が大切かもしれない。</p>
+<p>また、敬語.jpの為に日本語文法を学んだ事で、英語にも興味を抱く様になった。<br>
+特に第二言語になった時に、頭の中で英語を日本語に変換しなくても自然に読める感覚を体験してみたいと思った。</p>
+<p>勉強は<a href="https://www.gentosha.co.jp/book/detail/9784344001404/">ビッグ・ファット・キャットの世界一簡単な英語の本</a>を読む事で行なっている。</p>
+<p>本書は学生の頃に触れたものの、学校英語の役に立つ頃には卒業していそうなので諦めた経緯がある。</p>
+<p>この本は英単語の意味を闇雲に憶えるのではなく、文脈から意味を推測してから辞書を引く習慣を付け、大量の文章を読む事で経験から理解できる様になるべきだと説いている。<br>
+ところが、数ヶ月ごとにある学校のテストで良い点を取るには、英単語の直訳をひたすら暗記する事が求められる。</p>
+<p>今読んでも、というより、今読んでいるからなのかもしれないが、非常に分かりやすくて良い本だと思う。</p>
+<p>自然と読める様になるまで3〜5年はかかりそうだが、期限も無いので気楽にやっていこうと思う。</p>
+<h1 id="音楽">音楽</h1>
+<p>今年は<a href="https://www.youtube.com/watch?v=fUwy87Sabxs" target="_blank">知久寿明</a>さんの曲を多く聴いた。</p>
+<p>また、BIGMAMAの<a href="https://www.youtube.com/watch?v=jkNKEl409LU" target="_blank">数学 | RULER</a>が非常に良かった。</p>
+<h1 id="盆栽">盆栽</h1>
+<p>今年は過去に類を見ない酷暑だった為、今年いただいた分の3割ほどが年内に枯れてしまった。</p>
+<p>忙しくて花が咲いたのに写真を撮り忘れた事も多いので、今年の盆栽記事は見送ります。</p>
+<p>先生も、来年以降も同じ様な気候が続くのであれば、手入れの仕方を根本的に変えなければならないとおっしゃっていた。</p>
+<h1 id="リングフィットアドベンチャー">リングフィットアドベンチャー</h1>
+<p>去年3周クリアした後にリセットして一周クリア（4周）したが、今年の七月に5周目が終わった。</p>
+</div>
+<div class="figure">
+	<img src="/images/2023/ringfit-1.jpg">
+</div>
+<div class="article-body">
+</div>
+<div class="figure">
+	<img src="/images/2023/ringfit-2.jpg">
+</div>
+<div class="article-body">
+<p>3周クリアした時には丁寧にステージを進めていたので後半が楽になりすぎてしまったので、今回はあまり寄り道をせず、ミッションも6周目を終えてからすることに決めている。</p>
+<p>また、時々追加攻撃が出来る「ラッシュ攻撃」のスキルを取ると一日の運動量が安定しないため、取らない事にした事で体力も最大より4分の1くらい少なくなり、中々難しい攻略になった。</p>
+<p>5周目で最も難しかったのがこのステージ。</p>
+</div>
+<div class="figure">
+	<img src="/images/2023/ringfit-3.jpg">
+</div>
+<div class="article-body">
+<p>回復アイテムを使えない上に、四体中三体から攻撃を受けると負けてしまう。<br>
+運良くダメージを受けないターンが生まれるまで回復し続けるしかなく、クリアするまでに1時間ちょいかかった。</p>
+<p>6周目になるとお金に余裕も出てきたので敵は強くなってはいるものの順調に進み、なんとか今年中にクリアできると思っていた矢先。</p>
+</div>
+<div class="figure">
+	<img src="/images/2023/ringfit-4.jpg">
+</div>
+<div class="article-body">
+</div>
+<div class="figure">
+	<img src="/images/2023/ringfit-5.jpg">
+</div>
+<div class="article-body">
+<p>四体中二体から攻撃を受けると負けてしまう。しかも敵一体を倒すのに三体攻撃のスキルだと三ターンかかる。</p>
+<p>流石に難しく、レベル上げするにも適正レベルより70近く低いのでどれくらい上げる必要があるのか分からない。</p>
+<p>ということで今年中のクリアを諦めたのだが、目標が無くなり、仕事も忙しくなるとやる気が出ず、10月頃からリングフィットをほぼやらず仕舞いになってしまった。</p>
+<p>2024年にはクリアしていると思う。</p>
+
+      </div>
+      <footer>
+      </footer>
+    </article>
+    <script type="application/ld+json">
+    {
+        "@context":"http://schema.org",
+        "@type":"NewsArticle",
+        "mainEntityOfPage": {
+            "@type":"WebPage",
+            "@id":"https:\/\/hayami.blog\/ja\/2023\/"
+        },
+        "headline": "2023年を振り返る",
+        "image":{
+        "@type":"ImageObject",
+        "url":"https:\/\/hayami.blog\/images/ogp.2023.jpg",
+        "width":"1600",
+        "height":"840"
+        },
+        "datePublished":"2023-12-31T00:00:00Z",
+        "dateModified":"2023-12-31T00:00:00Z",
+        "author":{
+            "@type":"Person",
+            "name":""
+        },
+        "publisher":{
+            "@type":"Organization",
+            "name":"hayami.blog",
+            "logo":{
+                "@type":"ImageObject",
+                "url":"https:\/\/hayami.blog\/images/logo-600.png",
+                "width":"600",
+                "height":"600"
+            }
+        }
+    }
+    </script>
+  </body>
+</html>

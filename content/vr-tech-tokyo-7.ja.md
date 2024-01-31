@@ -119,7 +119,7 @@ GoldRush VR とは{{< link title="ハシラス" url="https://hashilus.com/" >}}�
 GoldRush VR は4人で力を合わせてミッションをクリアしていくゲームだが、みんな球を投げ合うだけで楽しんでしまうので、先に進んでもらえる為のUX設計に苦労したという。
 
 ## ガンナーオブドラグーンの世界 〜 Unityで作る非VR Readyでも動く優美な空
-{{< link title="ガンナーオブドラグーン" url="https://www.circle-hydrangea.net/the-gunner-of-dragoon/" >}}は{{< link title="野生の男" url="https://twitter.com/yasei_no_otoko" >}}さんの、個人開発にも関わらず非常に高いクオリティをほこる為、日本のVR業界では有名なゲームだ。
+{{< link title="ガンナーオブドラグーン" url="https://www.circle-hydrangea.net/the-gunner-of-dragoon/" >}}は{{< link title="野生の男" url="https://twitter.com/yasei_no_otoko" >}}さんの、個人開発にも拘らず非常に高いクオリティをほこる為、日本のVR業界では有名なゲームだ。
 
 {{< youtube-2x1 Z1rcdm7fDTI >}}
 

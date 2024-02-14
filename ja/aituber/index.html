@@ -1,0 +1,172 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>AITuberプロジェクトを始めた</title>
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+    <meta property="og:title" content="AITuberプロジェクトを始めた" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta property="og:url" content="https://hayami.blog/ja/aituber/" />
+    <meta property="og:image" content="https://hayami.blog/images/aituber/ogp.png" />
+  
+    <meta property="fb:pages" content="1849242982004604" />
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="" />
+    <meta name="twitter:title" content="AITuberプロジェクトを始めた" />
+    <meta name="twitter:image" content="https://hayami.blog/images/aituber/ogp.png" />
+    <meta name="twitter:description" content="" />
+  
+    <link rel="alternate" type="application/rss+xml" href="https://hayami.blog/index.xml" title="hayami.blog" />
+    <link rel="canonical" href="https://hayami.blog/ja/aituber/">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="shortcut icon" type="image/png" href="https://hayami.blog/images/favicon.png">
+    <meta name="description" content="">
+    <meta name="keywords" content="AITuber,">
+    <meta name="author" content="">
+ 
+    <meta name="google-site-verification" content="jgWqS97ZIv18vk0RoVGJddpA3ROB8_y5ndX7lAQslk8" />
+    </style>
+    </head>
+  <body>
+    <nav>
+      <a href="https://hayami.blog/ja" id="logo"><img src="https://hayami.blog/images/logo.svg" alt="hayami.blog"></a>
+      <div class="lang">
+        
+     </div>
+    </nav>
+
+    <article>
+    <header class="article-header">
+      <h1 class="article-title">AITuberプロジェクトを始めた</h1>
+      <time class="article-date" datetime="2024-02-14T00:00:00Z">2024年02月14日</time>
+      </header>
+      <div class="article-body">
+      </div>
+<div class="figure">
+	<img src="/images/aituber/eyecatch.png">
+</div>
+<div class="article-body">
+<p>本日、合同会社zoomeでAITuberプロジェクトを開始した。</p>
+<a href="https://aituber.net/" target="_blank">https://aituber.net/</a>
+<p>AI（人工知能）によるVTuberの実現を目指す一連のサービス群となっている。</p>
+<h1 id="aituberを作るまでの紆余曲折">AITuberを作るまでの紆余曲折</h1>
+<p>AITuberに繋がる最初のアイデアを考えたのは、ARKitを初搭載したiOS11が出た2017年の時だ。</p>
+<p>当時、VTuberが急速に話題を集めていた。</p>
+<p>3Dアバターとトラッキングによる動画配信は、プログラマーの私としては非常に面白い技術の詰め合わせだった。<br>
+それが商業的にも重視されている事に興味をそそられ、私も何か出来ないか考えていた。</p>
+<p>ところが、VTuberは技術力よりも人材の管理と広報の方が重要なので、営業や広報出身の人が強い分野となっている。<br>
+プログラマーが手を出しても厳しい事はすぐに分かった。</p>
+<p>そこで考えたのが、「誰でもVTuberになれる」というアプリだった。<br>
+動画と違い、3Dモデルさえスマートフォンに送る事が出来たら、後は音声と座標、表情、体の関節の情報さえ送れば良いので、軽量な配信が行える。</p>
+<p>ARKitなら中々の精度で前後左右の移動が検知できるので、近づいたり、別の角度から観たりも出来る。</p>
+<p>という事で頭の中でつらつらと構想を練っていたのだが、同じ所に目を付けている方は多かった様で、誰でもVTuberになれる、通信量も動画より少ないという、考えていた物とほとんど同じ謳い文句のサービスがいくつか現れた。
+次第に大手企業が買収したり参入したりする様になって、私のアイデアは萌芽の段階で終わった。</p>
+<p>次に考えたのがAITuberだった。2019年頃だったと思う。</p>
+<p>深層学習の発展によって、これからはAIの時代という考えが定着した頃だった。<br>
+VTuberが流行って、AIが流行って、じゃあAIのVTuberはどうか、というのは、ごく普通の発想だと思う。</p>
+<p>弊社も2020年に遅まきながら深層学習の勉強を始めて、それを活かせそうなアプリとして<a href="https://honorific.app/" target="_blank">敬語翻訳</a>を作ったのだが、その時から「敬語翻訳の次はAITuber」と社内で言い続けていた。</p>
+<p>2021年には気持ちが固まっていたので、aituber.netというドメインを取得し、App Store のアプリ名も確保した。</p>
+<p>今はAITuberと検索すると沢山ヒットするが、当時は数える程しか無かった。<br>
+技術的に難しい面が多かった為だと考えている。</p>
+<p>私もAIのVTuberを作ろうとしたが、2つの大きな課題があった。</p>
+<ol>
+<li>AIに何を学習させるのか</li>
+<li>会話をどうするのか</li>
+</ol>
+<p>一つ目はもちろん、中に人がいるかの様に動き、喋り、それでいて娯楽として楽しめるAIが目標だが、会社の資産として何を学習データ (training data) として蓄積していくのかを考える必要がある。</p>
+<p>月日が経つにつれてAI関連の技術が発展し、参入障壁が低くなっていくが、そうなると自社だけが持つ強みが作りにくくなる為だ。<br>
+苦労して作った物が一日で無意味になる事もある分野なので、尚更熟考しなければならない。</p>
+<p>こちらは2021年に考えた時から現在に至るまでほとんど変化していないが、実装前に公表することは危険なのでここには書かない。</p>
+<p>二つ目の「会話」の実現が大きな重しになっていて、解決が難しかった。</p>
+<p>AIによる会話はBERTなどの推測方式の自然言語モデルでも作れはするが、あらかじめ用意した文章の中から選んで返答する形に近い。<br>
+手段の一つではあるが、これ一つでは厳しい。</p>
+<p>また、生成方式の大規模言語モデルであるGPT-3が注目を集めていて、弊社の様な小企業の努力は無駄になる可能性が高かった。</p>
+<p>これらの課題に加え、娯楽である以上、良い物が現れると人が移りやすいという、先行者利益を享受しづらい側面もある。</p>
+<p>なのでアイデアを考えつつも様子見をしていたのだが、ChatGPTという予想を遥かに超えるAIサービスが登場し、状況が一変した。</p>
+<p>AITuberを作り始めたのは去年の3月31日だ。</p>
+<h1 id="aituberをどうやって描くか">AITuberをどうやって描くか</h1>
+<p>当然ながらAITuberのイラストをどうするかが問題となった。</p>
+<p>人に依頼するにしてもキャラクターデザインの事を何も知らないので「何か良い感じでお願いします」という依頼方法しか出来なさそうだし、良し悪しが判る最低限の感性はあるので納得のいくまで修正をお願いしたい（絶対駄目なやつ）。</p>
+<p>一応、私は絵が描けないが、アプリのアイコンなどの為にベクター形式の画像を作る事がある（いわゆるベジ絵）。<br>
+ベクターの利点は一度引いた線を何度でも曲げ直せる事で、時間を掛けて試行錯誤すればそれっぽい物が作れる。</p>
+<p>同じ要領で何とかならないかと思い、絵の描ける友人に時々助言を貰いつつ、イラストからLive2Dモデルまで4ヶ月ほど掛けて作った。<br>
+Live2Dは始めて触ったが、パラメーターの使い方によって様々な事が出来る面白いソフトだと思った。</p>
+<p>最も参考にした記事群はこちら。</p>
+<a href="https://note.com/himono_vtuber" target="_blank">https://note.com/himono_vtuber</a>
+<p>正面を向いた絵は左右対称に出来る事もあって、人体の法則や、こういった絵の共通項を見つけていく事で何とか作れた。</p>
+<h1 id="名称の理由">名称の理由</h1>
+<p>「AITuberプロジェクト」という何の捻りもない名前にした事には、AITuberの意味が統一されていないという理由がある。</p>
+<p>AITuberという名称そのものはChatGPTの登場で利用が一気に増えたものの、具体的に何をしているのかは定まっていない。</p>
+<p>というのも、出来る事がまだ少ない為だ。<br>
+例えば、VTuberは配信環境さえ揃えれば簡単にゲーム配信が出来るが、AITuberの場合はゲームを遊ぶ為のAIを開発する必要がある。</p>
+<p>単なる会話であっても、過去に話した事を踏まえた発言が難しく、一貫した内容を喋らせるにはかなり苦労する。</p>
+<p>なので3DモデルをAIによる計算処理で動かし、機械生成の音声を喋らせようと試行錯誤している人もいる一方で、ChatGPTで生成したセリフを手動でSNSに投稿している人や、AIに同じキャラクターの絵を生成させた物を公開し続けているだけの人もいて、一口にAITuberと言っても活動は様々となっている。</p>
+<p>そうなると、「AITuber事務所やグループの名前→どういった活動をしているのか→AITuberのキャラクター名」と、三回も経緯を経る必要がある。<br>
+知る順番は人によって異なるだろうが、いずれにせよ長く分かりづらい。</p>
+<p>「AITuberプロジェクト」という名称で「皆でAITuberを作るプロジェクト」と書けば、利用者参加型のサービスである事がすぐに分かる。<br>
+現状では最善だと思う。</p>
+<p>もちろん商標は取らないし（そもそも通らないと思うが）、ずっとこの名称のままだとも限らない。</p>
+<h1 id="伊江鈴">伊江鈴</h1>
+<p>名前と愛称が一致したら面白いのではと思い、「伊江凛」という名前を2017年〜2019年に小説を書こうとしていた頃に考えたのだが、満を持して使用する事にした。</p>
+<p>Live2Dモデルを作っている最中に鈴の音の擬音を「ting‐a‐ling」と書くと知ったので、名の英語表記を「Ling」にし、「鈴」にした。</p>
+<p>英語圏では伊江を「Ie」と書くと発音の仕方が解らないので、DeepLとGoogle検索の読み上げ機能を参考にし「Ye」にした。</p>
+<p>英単語の&rsquo;ye&rsquo;は古語で、現在は聖書以外では見る事の少ない単語だそうだ。<br>
+また、&lsquo;Ye&rsquo;も&rsquo;Ling&rsquo;も中華圏の名前をアルファベットで表記する際に用いられるらしい。</p>
+<p>なので、結果的に日本語、英語、中華圏の姓名として通じる不思議な名前になった。<br>
+ただ、日本向けのSNSアカウントのIDなどで「yeling」とすると分かりづらいので、「ierin」と併用する事になると思う。</p>
+<h1 id="トイロ">トイロ</h1>
+<p>元々は伊江鈴と男のAITuberの二人でサービスを始める予定だったが、男は現在のAIでは時期尚早と判断し止めた。<br>
+伊江鈴だけで始める事も考えたが、二人の方がサービスの幅が広がるので、スケジュールは厳しかったが作る事にした。</p>
+<p>時間が無かったので不安だったが、いざ作ってみたら一週間くらいで「あれ、結構良い感じでは？」と思う様になり、知人に見せても評判が良かった。<br>
+伊江鈴がその段階に至るまで一ヶ月以上かかったので嬉しい誤算となった。</p>
+<p>ただし、後ろ髪と顔を左右に動かした時の目、肩の曲線が中々自然にならず、完成するまでに結局二ヶ月ほどかかった。</p>
+<h1 id="ロゴ">ロゴ</h1>
+<p>&ldquo;AITuber Project&quot;という名称が長いので、縦長のフォントの<a href="https://fontopo.com/?p=70" target="_blank">FONTOPO</a>を使用している。</p>
+<p>視認性が高く、遊び心がありつつもポップすぎない素晴らしいフォントだと思う。</p>
+<p>とはいえ二行になると流石に縦長すぎるので、Projectは楕円形の部分を円にすることで短くした。</p>
+<p>色は「AI」を近似色にしつつ、他はばらけつつもランダムになりすぎない組み合わせを幾通りか試して決めた。</p>
+
+      </div>
+      <footer>
+      </footer>
+    </article>
+    <script type="application/ld+json">
+    {
+        "@context":"http://schema.org",
+        "@type":"NewsArticle",
+        "mainEntityOfPage": {
+            "@type":"WebPage",
+            "@id":"https:\/\/hayami.blog\/ja\/aituber\/"
+        },
+        "headline": "AITuberプロジェクトを始めた",
+        "image":{
+        "@type":"ImageObject",
+        "url":"https:\/\/hayami.blog\/images/aituber\/ogp.png",
+        "width":"1600",
+        "height":"840"
+        },
+        "datePublished":"2024-02-14T00:00:00Z",
+        "dateModified":"2024-02-14T00:00:00Z",
+        "author":{
+            "@type":"Person",
+            "name":""
+        },
+        "publisher":{
+            "@type":"Organization",
+            "name":"hayami.blog",
+            "logo":{
+                "@type":"ImageObject",
+                "url":"https:\/\/hayami.blog\/images/logo-600.png",
+                "width":"600",
+                "height":"600"
+            }
+        }
+    }
+    </script>
+  </body>
+</html>

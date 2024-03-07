@@ -136,6 +136,8 @@ Live2Dモデルを作っている最中に鈴の音の擬音を「ting‐a‐lin
 
 # ロゴ
 
+{{< figure src="/images/aituber/logo.png" title="" >}}
+
 "AITuber Project"という名称が長いので、縦長のフォントの{{< link title="FONTOPO" url="https://fontopo.com/?p=70" >}}を使用している。
 
 視認性が高く、遊び心がありつつもポップすぎない素晴らしいフォントだと思う。

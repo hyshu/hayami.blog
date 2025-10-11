@@ -64,6 +64,16 @@
   </url><url>
     <loc>https://hayami.blog/ja/2018/</loc>
     <lastmod>2018-12-31T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2018/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/2018-gyoen/</loc>
     <lastmod>2018-12-20T00:00:00+09:00</lastmod>
@@ -83,18 +93,58 @@
   </url><url>
     <loc>https://hayami.blog/ja/mt-fuji/</loc>
     <lastmod>2018-08-18T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/mt-fuji/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/mt-fuji/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/okukinu-onsen/</loc>
     <lastmod>2018-07-14T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/okukinu-onsen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/okukinu-onsen/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/vr-zone-shinjuku/</loc>
     <lastmod>2018-06-04T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hayami.blog/ja/asama-autocamp/</loc>
     <lastmod>2018-06-01T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/asama-autocamp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/asama-autocamp/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/kusatsu-onsen/</loc>
     <lastmod>2018-05-12T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/kusatsu-onsen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/kusatsu-onsen/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/apple-store-shinjuku/</loc>
     <lastmod>2018-04-07T00:00:00+09:00</lastmod>
@@ -124,9 +174,29 @@
   </url><url>
     <loc>https://hayami.blog/ja/2018-okinawa/</loc>
     <lastmod>2018-03-11T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2018-okinawa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2018-okinawa/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/a7r3/</loc>
     <lastmod>2018-01-21T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/a7r3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/a7r3/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/2017/</loc>
     <lastmod>2017-12-31T00:00:00+09:00</lastmod>
@@ -169,6 +239,16 @@
   </url><url>
     <loc>https://hayami.blog/ja/vr-tech-tokyo-7/</loc>
     <lastmod>2017-06-25T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/vr-tech-tokyo-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/vr-tech-tokyo-7/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/2016/</loc>
     <lastmod>2016-12-31T00:00:00+09:00</lastmod>

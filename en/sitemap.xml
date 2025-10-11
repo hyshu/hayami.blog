@@ -15,6 +15,24 @@
                 href="https://hayami.blog/en/2018-gyoen/"
                 />
   </url><url>
+    <loc>https://hayami.blog/en/</loc>
+    <lastmod>2018-12-20T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="na"
+                href="https://hayami.blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/"
+                />
+  </url><url>
     <loc>https://hayami.blog/en/apple-store-shinjuku/</loc>
     <lastmod>2018-04-07T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -96,13 +114,13 @@
     <loc>https://hayami.blog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/categories/"
+                hreflang="na"
+                href="https://hayami.blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="na"
-                href="https://hayami.blog/categories/"
+                hreflang="ja"
+                href="https://hayami.blog/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -110,33 +128,16 @@
                 href="https://hayami.blog/en/categories/"
                 />
   </url><url>
-    <loc>https://hayami.blog/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="na"
-                href="https://hayami.blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hayami.blog/en/"
-                />
-  </url><url>
     <loc>https://hayami.blog/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/tags/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="na"
                 href="https://hayami.blog/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"

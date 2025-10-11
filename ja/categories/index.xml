@@ -4,7 +4,8 @@
     <title>Categories on hayami.blog</title>
     <link>https://hayami.blog/ja/categories/</link>
     <description>Recent content in Categories on hayami.blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>na</language><atom:link href="https://hayami.blog/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="https://hayami.blog/ja/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

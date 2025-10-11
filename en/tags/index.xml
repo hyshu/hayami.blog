@@ -4,7 +4,8 @@
     <title>Tags on hayami.blog</title>
     <link>https://hayami.blog/en/tags/</link>
     <description>Recent content in Tags on hayami.blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>na</language><atom:link href="https://hayami.blog/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://hayami.blog/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

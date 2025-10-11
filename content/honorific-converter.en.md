@@ -9,7 +9,7 @@ ogimage = "honorific-converter/ogp.png"
 
 Today, zoome LLC released the Honorific Converter.
 
-{{< link title="https://敬語翻訳.jp" url="https://敬語翻訳.jp" >}}
+{{< link title="https://honorific.app" url="https://honorific.app" >}}
 
 This is an app that converts casual Japanese text into honorific language.
 

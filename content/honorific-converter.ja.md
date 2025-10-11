@@ -9,7 +9,7 @@ ogimage = "honorific-converter/ogp.png"
 
 本日、合同会社zoomeから敬語翻訳を公開した。
 
-{{< link title="https://敬語翻訳.jp" url="https://敬語翻訳.jp" >}}
+{{< link title="https://honorific.app" url="https://honorific.app" >}}
 
 日本語で書かれた常語を敬語へと置き換えるアプリになっている。
 

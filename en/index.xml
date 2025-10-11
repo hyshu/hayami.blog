@@ -9,25 +9,53 @@
     <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://hayami.blog/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Looking Back on 2024</title>
+      <title>A look back at 2024</title>
       <link>https://hayami.blog/en/2024/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0900</pubDate>
       <guid>https://hayami.blog/en/2024/</guid>
       <description>&lt;/div&gt;&#xA;&lt;div class=&#34;figure&#34;&gt;&#xA;&#x9;&lt;img src=&#34;https://hayami.blog/images/2024/eyecatch.jpg&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;article-body&#34;&gt;&#xA;&lt;p&gt;My mother&amp;rsquo;s illness was discovered around the beginning of spring.&lt;br&gt;&#xA;Thanks to several fortunate coincidences, we were able to detect the illness early and have her treated at a good hospital.&lt;br&gt;&#xA;Because of this, it didn&amp;rsquo;t become a serious matter.&lt;/p&gt;&#xA;&lt;p&gt;However, surgery alone wasn&amp;rsquo;t enough for a complete cure, and she received medication while attending the hospital for about six months.&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-advancing-of-artificial-intelligence&#34;&gt;The Advancing of Artificial Intelligence&lt;/h1&gt;&#xA;&lt;p&gt;This year saw remarkable developments in artificial intelligence.&lt;br&gt;&#xA;Around the end of 2022, it was newsworthy just that a method for creating natural Japanese text had emerged.&lt;br&gt;&#xA;By March 2023, it became easily accessible to everyone, and now programmers use it as a matter of course.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Looking Back on 2023</title>
+      <title>Started the AITuber Project</title>
+      <link>https://hayami.blog/en/aituber/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0900</pubDate>
+      <guid>https://hayami.blog/en/aituber/</guid>
+      <description>&lt;/div&gt;&#xA;&lt;div class=&#34;figure&#34;&gt;&#xA;&#x9;&lt;img src=&#34;https://hayami.blog/images/aituber/eyecatch.png&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;article-body&#34;&gt;&#xA;&lt;p&gt;Today, we launched the AITuber Project at zoome LLC.&lt;/p&gt;&#xA;&lt;a href=&#34;https://aituber.net/&#34; target=&#34;_blank&#34;&gt;https://aituber.net/&lt;/a&gt;&#xA;&lt;p&gt;This is a suite of services aimed at realizing VTubers powered by AI (artificial intelligence).&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-journey-to-creating-aituber&#34;&gt;The Journey to Creating AITuber&lt;/h1&gt;&#xA;&lt;p&gt;The first idea that led to AITuber came to me in 2017 when iOS 11 was released with ARKit support for the first time.&lt;/p&gt;&#xA;&lt;p&gt;At that time, VTubers were rapidly gaining attention.&lt;/p&gt;&#xA;&lt;p&gt;Video streaming with 3D avatars and tracking was, for me as a programmer, an extremely interesting combination of technologies.&lt;br&gt;&#xA;I was intrigued that this was also being valued commercially, and I was thinking about what I could do in this space.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A look back at 2023</title>
       <link>https://hayami.blog/en/2023/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0900</pubDate>
       <guid>https://hayami.blog/en/2023/</guid>
       <description>&lt;/div&gt;&#xA;&lt;div class=&#34;figure&#34;&gt;&#xA;&#x9;&lt;img src=&#34;https://hayami.blog/images/2023/eyecatch.jpg&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;article-body&#34;&gt;&#xA;&lt;p&gt;The COVID-19 pandemic has largely come to an end.&#xA;Two acquaintances contacted me to say they had contracted it, but both reported symptoms no different from a common cold and recovered quickly.&lt;/p&gt;&#xA;&lt;h1 id=&#34;deep-learning&#34;&gt;Deep Learning&lt;/h1&gt;&#xA;&lt;p&gt;When I first learned about the Turing Test as a middle school student who had just started programming, it filled me with excitement. However, I never imagined that an AI capable of passing it would suddenly become a hot topic, let alone be freely available to everyone within a few months.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Looking Back on 2022</title>
+      <title>Released Batty</title>
+      <link>https://hayami.blog/en/batty/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0900</pubDate>
+      <guid>https://hayami.blog/en/batty/</guid>
+      <description>&lt;/div&gt;&#xA;&lt;div class=&#34;figure&#34;&gt;&#xA;&#x9;&lt;img src=&#34;https://hayami.blog/images/batty/eyecatch.png&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;article-body&#34;&gt;&#xA;&lt;p&gt;Today, zoome LLC released Batty.&lt;/p&gt;&#xA;&lt;a href=&#34;https://batty.life/&#34; target=&#34;_blank&#34;&gt;https://batty.life/&lt;/a&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a location-sharing SNS app where you can communicate with acquaintances while sharing your location.&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-market-leader-that-suddenly-ended-service&#34;&gt;The Market Leader That Suddenly Ended Service&lt;/h1&gt;&#xA;&lt;p&gt;The &amp;ldquo;location-sharing SNS&amp;rdquo; field had long been dominated by Zenly, an app operated by the American company Snap Inc., but it was decided to end service on February 3rd.&lt;/p&gt;&#xA;&lt;p&gt;The reason for ending the service was stated as &amp;ldquo;&lt;a href=&#34;https://newsroom.snap.com/ja-JP/restructuring-and-refocusing-our-business&#34; target=&#34;_blank&#34;&gt;to reduce team size across the company&lt;/a&gt;&amp;rdquo;, but if it had been profitable, they would naturally have continued it, so it&amp;rsquo;s reasonable to assume it was unprofitable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A look back at 2022</title>
       <link>https://hayami.blog/en/2022/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0900</pubDate>
       <guid>https://hayami.blog/en/2022/</guid>
       <description>&lt;/div&gt;&#xA;&lt;div class=&#34;figure&#34;&gt;&#xA;&#x9;&lt;img src=&#34;https://hayami.blog/images/2022/eyecatch.jpg&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;article-body&#34;&gt;&#xA;&lt;p&gt;While the COVID-19 pandemic shows signs of ending, the number of infected people still suddenly increases at times, and the situation continues to require vigilance.&lt;/p&gt;&#xA;&lt;p&gt;The world situation is also changing dramatically. I hope I can write travel articles again like before, but I don&amp;rsquo;t know when that will be.&lt;/p&gt;&#xA;&lt;h1 id=&#34;deep-learning&#34;&gt;Deep Learning&lt;/h1&gt;&#xA;&lt;p&gt;The honorific translation app was originally created as a project to study deep learning, but for a long time I couldn&amp;rsquo;t find a use case for it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2022 Bonsai and Penjing Collection</title>
+      <link>https://hayami.blog/en/2022-bonsai-total/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0900</pubDate>
+      <guid>https://hayami.blog/en/2022-bonsai-total/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a compilation of all the works created during my monthly bonsai and penjing classes throughout this year.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been so busy lately that I often miss taking photos when the plants are at their peak.&lt;br&gt;&#xA;The photos are even more casual than usual this year, so I hope you&amp;rsquo;ll be forgiving.&lt;br&gt;&#xA;Also, I forgot to write dates in my notes, so there might be some mix-ups.&lt;/p&gt;&#xA;&lt;p&gt;This year&amp;rsquo;s rainy season was abnormal - it started earlier than usual and was immediately followed by a few days of sudden intense heat right after it ended.&lt;br&gt;&#xA;During this brief period, 2-3 bonsai suffered serious damage, but other than that, I think I managed to grow them well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Launched Keigo.jp</title>
+      <link>https://hayami.blog/en/keigo.jp/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0900</pubDate>
+      <guid>https://hayami.blog/en/keigo.jp/</guid>
+      <description>&lt;/div&gt;&#xA;&lt;div class=&#34;figure&#34;&gt;&#xA;&#x9;&lt;img src=&#34;https://hayami.blog/images/keigo.jp/eyecatch.png&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;article-body&#34;&gt;&#xA;&lt;p&gt;To turn the honorific translation app into a &amp;ldquo;learning honorific app&amp;rdquo; as originally planned, I launched an explanatory blog and made it readable within the app.&lt;/p&gt;&#xA;&lt;a href=&#34;https://%e6%95%ac%e8%aa%9e.jp/&#34; target=&#34;_blank&#34;&gt;https://敬語.jp/&lt;/a&gt;&#xA;&lt;p&gt;Due to various circumstances, I ended up writing the articles myself.&lt;/p&gt;&#xA;&lt;p&gt;(This article is a reflection on approximately one year since launching &amp;ldquo;Keigo.jp&amp;rdquo; on January 16, 2022)&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-ambiguity-of-honorifics&#34;&gt;The Ambiguity of Honorifics&lt;/h1&gt;&#xA;&lt;p&gt;Honorifics turned out to be more ambiguous than initially expected when starting the business, with impressions varying greatly between individuals even for the same honorific expressions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A look back at 2021</title>
@@ -37,11 +65,25 @@
       <description>&lt;/div&gt;&#xA;&lt;div class=&#34;figure&#34;&gt;&#xA;&#x9;&lt;img src=&#34;https://hayami.blog/images/2021/eyecatch.jpg&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;article-body&#34;&gt;&#xA;&lt;p&gt;The COVID-19 pandemic continued this year.&lt;/p&gt;&#xA;&lt;p&gt;Since it&amp;rsquo;s unclear when it will end, I want to continue being careful not to get infected.&lt;/p&gt;&#xA;&lt;h1 id=&#34;app-research&#34;&gt;App Research&lt;/h1&gt;&#xA;&lt;p&gt;I completed the 2020 portion at the end of June, having installed about 13,000 apps.&lt;/p&gt;&#xA;&lt;p&gt;When the number of installed apps exceeded 8,000, a bug occurred that prevented the iPhone from booting.&#xA;Although I was taking daily backups, it seems they weren&amp;rsquo;t designed for such a large number of apps, and even after restoration, the power would turn off after a few seconds, making it impossible to boot.&#xA;Since I had also taken backups for each app, I was able to avoid disaster, but if I had neglected countermeasures even a little more, the research would have ended in failure.&#xA;Testing restoration from backups is important indeed.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>2021 Bonsai and Penjing Collection</title>
+      <link>https://hayami.blog/en/2021-bonsai-total/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0900</pubDate>
+      <guid>https://hayami.blog/en/2021-bonsai-total/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a compilation of the works I created during my monthly bonsai and penjing classes throughout this year.&lt;/p&gt;&#xA;&lt;p&gt;This year, perhaps because I had more space on my balcony, I struggled with leaf burn.&#xA;While leaf burn rarely kills the plant, unless you&amp;rsquo;re very lucky, it prevents fruits and flowers from blooming that year.&lt;/p&gt;&#xA;&lt;p&gt;As in previous years, surviving the peak summer heat remains a challenge.&#xA;I&amp;rsquo;ve come to understand that May is also crucial for heat-sensitive varieties.&#xA;Year by year, the number of bonsai that can survive the midsummer is increasing, so I hope to have an even better bonsai life next year.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>A look back at 2020</title>
       <link>https://hayami.blog/en/2020/</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0900</pubDate>
       <guid>https://hayami.blog/en/2020/</guid>
       <description>&lt;/div&gt;&#xA;&lt;div class=&#34;figure&#34;&gt;&#xA;&#x9;&lt;img src=&#34;https://hayami.blog/images/2020/eyecatch.jpg&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;article-body&#34;&gt;&#xA;&lt;p&gt;COVID-19.&lt;/p&gt;&#xA;&lt;p&gt;Since I had just started my company this year, I spent almost the entire year working from home, so I wasn&amp;rsquo;t affected much. But if this had happened a few years earlier or later, it could have been a disaster.&lt;/p&gt;&#xA;&lt;p&gt;We still can&amp;rsquo;t see what lies ahead, so I want to stay vigilant.&lt;/p&gt;&#xA;&lt;h1 id=&#34;app-research&#34;&gt;App Research&lt;/h1&gt;&#xA;&lt;p&gt;I wrote last year about how I was constantly installing domestic iOS apps, and I was able to successfully publish an article on note.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Released Honorific Converter</title>
+      <link>https://hayami.blog/en/honorific-converter/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0900</pubDate>
+      <guid>https://hayami.blog/en/honorific-converter/</guid>
+      <description>&lt;/div&gt;&#xA;&lt;div class=&#34;figure&#34;&gt;&#xA;&#x9;&lt;img src=&#34;https://hayami.blog/images/honorific-converter/eyecatch.png&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;article-body&#34;&gt;&#xA;&lt;p&gt;Today, zoome LLC released the Honorific Converter.&lt;/p&gt;&#xA;&lt;a href=&#34;https://%e6%95%ac%e8%aa%9e%e7%bf%bb%e8%a8%b3.jp&#34; target=&#34;_blank&#34;&gt;https://敬語翻訳.jp&lt;/a&gt;&#xA;&lt;p&gt;This is an app that converts casual Japanese text into honorific language.&lt;/p&gt;&#xA;&lt;h1 id=&#34;the-importance-of-honorifics&#34;&gt;The Importance of Honorifics&lt;/h1&gt;&#xA;&lt;p&gt;According to a 2018 &lt;a href=&#34;https://www.bunka.go.jp/tokei_hakusho_shuppan/tokeichosa/kokugo_yoronchosa/pdf/92701201_01.pdf&#34; target=&#34;_blank&#34;&gt;report&lt;/a&gt; by the Agency for Cultural Affairs, &amp;ldquo;usage of honorific language&amp;rdquo; ranks second at 62.1% in terms of interest in the Japanese language.&lt;/p&gt;&#xA;&lt;p&gt;This stands alongside the first place &amp;ldquo;daily language use and speaking style&amp;rdquo; at 73.7%. Since everything after third place is below 30%, it&amp;rsquo;s clear how high the interest is.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A look back at 2019</title>

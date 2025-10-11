@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hayami.blog/en/2024/</loc>
+    <lastmod>2024-12-31T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2024/"
+                />
+  </url><url>
     <loc>https://hayami.blog/en/</loc>
     <lastmod>2024-12-31T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -20,17 +33,17 @@
                 href="https://hayami.blog/en/"
                 />
   </url><url>
-    <loc>https://hayami.blog/en/2024/</loc>
-    <lastmod>2024-12-31T00:00:00+09:00</lastmod>
+    <loc>https://hayami.blog/en/aituber/</loc>
+    <lastmod>2024-02-14T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://hayami.blog/ja/2024/"
+                href="https://hayami.blog/ja/aituber/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hayami.blog/en/2024/"
+                href="https://hayami.blog/en/aituber/"
                 />
   </url><url>
     <loc>https://hayami.blog/en/2023/</loc>
@@ -46,6 +59,19 @@
                 href="https://hayami.blog/en/2023/"
                 />
   </url><url>
+    <loc>https://hayami.blog/en/batty/</loc>
+    <lastmod>2023-02-01T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/batty/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/batty/"
+                />
+  </url><url>
     <loc>https://hayami.blog/en/2022/</loc>
     <lastmod>2022-12-31T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -57,6 +83,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hayami.blog/en/2022/"
+                />
+  </url><url>
+    <loc>https://hayami.blog/en/2022-bonsai-total/</loc>
+    <lastmod>2022-12-25T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2022-bonsai-total/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2022-bonsai-total/"
+                />
+  </url><url>
+    <loc>https://hayami.blog/en/keigo.jp/</loc>
+    <lastmod>2022-01-16T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/keigo.jp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/keigo.jp/"
                 />
   </url><url>
     <loc>https://hayami.blog/en/2021/</loc>
@@ -72,6 +124,19 @@
                 href="https://hayami.blog/en/2021/"
                 />
   </url><url>
+    <loc>https://hayami.blog/en/2021-bonsai-total/</loc>
+    <lastmod>2021-12-19T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2021-bonsai-total/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2021-bonsai-total/"
+                />
+  </url><url>
     <loc>https://hayami.blog/en/2020/</loc>
     <lastmod>2020-12-31T00:00:00+09:00</lastmod>
     <xhtml:link
@@ -83,6 +148,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hayami.blog/en/2020/"
+                />
+  </url><url>
+    <loc>https://hayami.blog/en/honorific-converter/</loc>
+    <lastmod>2020-11-24T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/honorific-converter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/honorific-converter/"
                 />
   </url><url>
     <loc>https://hayami.blog/en/2019/</loc>

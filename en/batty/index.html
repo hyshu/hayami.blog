@@ -1,0 +1,167 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Released Batty, a Location Sharing SNS</title>
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+    <meta property="og:title" content="Released Batty" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:url" content="https://hayami.blog/en/batty/" />
+    <meta property="og:image" content="https://hayami.blog/images/batty/ogp.png" />
+  
+    <meta property="fb:pages" content="1849242982004604" />
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="" />
+    <meta name="twitter:title" content="Released Batty" />
+    <meta name="twitter:image" content="https://hayami.blog/images/batty/ogp.png" />
+    <meta name="twitter:description" content="" />
+  
+    <link rel="alternate" type="application/rss+xml" href="https://hayami.blog/index.xml" title="hayami.blog" />
+    <link rel="canonical" href="https://hayami.blog/en/batty/">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="shortcut icon" type="image/png" href="https://hayami.blog/images/favicon.png">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+ 
+    <meta name="google-site-verification" content="jgWqS97ZIv18vk0RoVGJddpA3ROB8_y5ndX7lAQslk8" />
+    </style>
+    </head>
+  <body>
+    <nav>
+      <a href="https://hayami.blog/en" id="logo"><img src="https://hayami.blog/images/logo.svg" alt="hayami.blog"></a>
+      <div class="lang">
+        
+     </div>
+    </nav>
+
+    <article>
+    <header class="article-header">
+      <h1 class="article-title">Released Batty</h1>
+      <time class="article-date" datetime="2023-02-01T00:00:00Z">Feb 1, 2023</time>
+      </header>
+      <div class="article-body">
+      </div>
+<div class="figure">
+	<img src="/images/batty/eyecatch.png">
+</div>
+<div class="article-body">
+<p>Today, zoome LLC released Batty.</p>
+<a href="https://batty.life/" target="_blank">https://batty.life/</a>
+<p>It&rsquo;s a location-sharing SNS app where you can communicate with acquaintances while sharing your location.</p>
+<h1 id="the-market-leader-that-suddenly-ended-service">The Market Leader That Suddenly Ended Service</h1>
+<p>The &ldquo;location-sharing SNS&rdquo; field had long been dominated by Zenly, an app operated by the American company Snap Inc., but it was decided to end service on February 3rd.</p>
+<p>The reason for ending the service was stated as &ldquo;<a href="https://newsroom.snap.com/ja-JP/restructuring-and-refocusing-our-business" target="_blank">to reduce team size across the company</a>&rdquo;, but if it had been profitable, they would naturally have continued it, so it&rsquo;s reasonable to assume it was unprofitable.</p>
+<p>Also, despite having <a href="https://www.businessinsider.jp/post-259096" target="_blank">40 million users</a>, the fact that they chose not to sell the business or continue the service by reducing costs suggests this was a field with particularly poor profit prospects.</p>
+<p>This makes sense if you think about it for even a moment.</p>
+<p>Since the app sends location information when you move even when it&rsquo;s not in the foreground—meaning when the app is closed or the phone is turned off—the data traffic is enormous.</p>
+<p>Many people probably send location data all day but only open the app for a few minutes, so I think it was difficult to make it profitable (though this is normal app usage).</p>
+<p>Therefore, if you&rsquo;re going to create a location-sharing SNS as a successor, it&rsquo;s important to think about how to keep maintenance costs down while getting people to open the app.</p>
+<h1 id="difficulties-in-creating-a-location-sharing-sns">Difficulties in Creating a Location-Sharing SNS</h1>
+<p>Actually, when the news broke that Zenly was ending service, I had absolutely no intention of creating Batty.</p>
+<p>There were two reasons. One was the aforementioned difficulty in profitability, and the other was the emphasis on &ldquo;imitating Zenly.&rdquo;</p>
+<p>Needless to say, the 40 million former Zenly users are looking for an app that looks exactly like Zenly, with equivalent features and the same operability.
+It&rsquo;s not hard to imagine that if you could create an app that was identical down to the details, almost everyone would use it.</p>
+<p>However, imitation is dangerous from copyright and trademark perspectives, and in the first place, it&rsquo;s nearly impossible to create the same thing as Zenly, which probably had billions invested in development.</p>
+<p>Additionally, there&rsquo;s a non-zero possibility that Zenly could return.
+It&rsquo;s quite conceivable that you could spend a year developing something only to have it all be for nothing when Zenly resumes service.</p>
+<p>In fact, I only learned this after starting Batty&rsquo;s development, but <a href="https://peerclub.com/about" target="_blank">the former Zenly map development team is creating a location-sharing SNS</a>.</p>
+<h1 id="why-i-decided-to-create-it">Why I Decided to Create It</h1>
+<p>The reason I decided to create it despite all this was that when reading the reviews on Zenly&rsquo;s app store page, many said &ldquo;It was useful for keeping in touch with family, so it&rsquo;s unfortunate.&rdquo;
+I was surprised that there was demand for family use, as I thought most people would use monitoring apps for family sharing.</p>
+<p>But it makes sense when you think about it&hellip;
+There&rsquo;s a psychological difference in ease of starting between using an app you&rsquo;re already using with friends for family purposes versus using an app exclusively for family.</p>
+<p>So I thought that proceeding in the direction of &ldquo;an SNS you also use with family&rdquo; could create a unique appeal not found elsewhere.</p>
+<p>For example, privacy-related features are hard to prioritize at the initial stage.
+Also, arrival and departure notifications for home, school, or work, which are difficult to implement and put a heavy load on servers, aren&rsquo;t difficult if designed early on.</p>
+<p>From experience, in competitive situations like this, apps that focus on appearance and atmosphere initially become popular, but as time passes, people tend to switch based on differences in desired features.
+(Incidentally, these migrations often happen suddenly, so preparation is very important)</p>
+<p>Even being fourth or fifth in the location-sharing SNS space, you could expect tens of thousands of users, which would be sufficient scale as a business.</p>
+<p>So, assuming slower growth than others, I started developing Batty on December 11th last year.</p>
+<p>I made it look as different from Zenly as possible and made it personally easy to use.
+I also incorporated many innovations from the design stage to reduce data traffic and server-side calculation time.</p>
+<p>If there&rsquo;s demand as intended and people use it, I&rsquo;ll of course be happy, and even if my pessimistic prediction comes true and a foreign latecomer dominates the market, the service can continue because maintenance costs are kept low.
+Additionally, since it has highly reusable features like chat and maps, the code assets created through service development won&rsquo;t go to waste.</p>
+<h1 id="origin-of-the-name">Origin of the Name</h1>
+<p>Batty is a pun on &ldquo;battery.&rdquo;</p>
+<p>The English word &ldquo;batty&rdquo; literally means &ldquo;bat-like.&rdquo;</p>
+<p>As slang, it means &ldquo;weird&rdquo; or &ldquo;unsteady,&rdquo; and in extreme cases, &ldquo;crazy.&rdquo;
+However, since Batty is also a surname, I don&rsquo;t think it will be misunderstood in the extreme sense if the first letter is capitalized.</p>
+<p>Also, the URL &ldquo;batty life&rdquo; means &ldquo;dissolute life,&rdquo; playing on &ldquo;battery life.&rdquo;
+Battery life refers to either &ldquo;until the battery is worn out and needs replacement&rdquo; or &ldquo;from full charge to empty&rdquo;—here it means the latter.</p>
+<p>Since it&rsquo;s an app that also shares battery level and is aimed at young people, I named it thinking that having slightly bad slang meaning would be more appealing.</p>
+<h1 id="icon">Icon</h1>
+<p>I created it in about an hour.</p>
+<p>First, I did a Google image search for &ldquo;bat illustration&rdquo; and found that many drew the wing membranes with curves.</p>
+<p>So I tried making them straight lines and it looked surprisingly good, so I adopted it. I thought it would be boring if both eyes were open, so I tried closing one eye and it looked somehow good, so I adopted that too.</p>
+<p>Batty is planned to launch overseas, and recent overseas SNS apps seem to often be black or purple (I haven&rsquo;t researched in detail), so I chose purple as the base color, associating it with bats.</p>
+<p>Finally, I decided to use the design trick of &ldquo;layering gradients makes things look good somehow.&rdquo;
+I applied a gradient to the background and the same colored gradient to the bat.
+At this time, if you shift the bat&rsquo;s gradient in the direction of the open eye, for some reason I don&rsquo;t understand, it creates a meaningful atmosphere and looks good.</p>
+<p>When considering only the domestic market, I thought it might be too dark, but when I showed it to a few acquaintances as a test, it was quite well-received, so I adopted it without changes.</p>
+<p>My icon creation is haphazard.</p>
+</div>
+<div class="figure">
+	<img src="/images/batty/compare.png">
+</div>
+<div class="article-body">
+<p>The left one looks like a sea angel.</p>
+<h1 id="redesigning-the-icon">Redesigning the Icon</h1>
+</div>
+<div class="figure">
+	<img src="/images/batty/new_icon.png">
+</div>
+<div class="article-body">
+<p>Originally, the icon was designed for overseas markets, but I thought about creating a separate icon for Japan and changed to a new icon on May 16, 2023.</p>
+<p>After that, though not particularly intended, BeReal. became popular, Meta&rsquo;s Threads appeared, and Twitter changed its name to X, with black backgrounds and white text designs suddenly increasing, so I decided to unify with this design.</p>
+</div>
+<div class="figure">
+	<img src="/images/batty/new_logo.png">
+</div>
+<div class="article-body">
+<p>I created the logo on August 22 of the same year.</p>
+
+      </div>
+      <footer>
+      </footer>
+    </article>
+    <script type="application/ld+json">
+    {
+        "@context":"http://schema.org",
+        "@type":"NewsArticle",
+        "mainEntityOfPage": {
+            "@type":"WebPage",
+            "@id":"https:\/\/hayami.blog\/en\/batty\/"
+        },
+        "headline": "Released Batty",
+        "image":{
+        "@type":"ImageObject",
+        "url":"https:\/\/hayami.blog\/images/batty\/ogp.png",
+        "width":"1600",
+        "height":"840"
+        },
+        "datePublished":"2023-02-01T00:00:00Z",
+        "dateModified":"2023-02-01T00:00:00Z",
+        "author":{
+            "@type":"Person",
+            "name":""
+        },
+        "publisher":{
+            "@type":"Organization",
+            "name":"hayami.blog",
+            "logo":{
+                "@type":"ImageObject",
+                "url":"https:\/\/hayami.blog\/images/logo-600.png",
+                "width":"600",
+                "height":"600"
+            }
+        }
+    }
+    </script>
+  </body>
+</html>

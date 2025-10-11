@@ -4,6 +4,16 @@
   <url>
     <loc>https://hayami.blog/ja/2024/</loc>
     <lastmod>2024-12-31T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2024/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/</loc>
     <lastmod>2024-12-31T00:00:00+09:00</lastmod>
@@ -28,12 +38,32 @@
   </url><url>
     <loc>https://hayami.blog/ja/2023/</loc>
     <lastmod>2023-12-31T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2023/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/batty/</loc>
     <lastmod>2023-02-01T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hayami.blog/ja/2022/</loc>
     <lastmod>2022-12-31T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2022/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/2022-bonsai-total/</loc>
     <lastmod>2022-12-25T00:00:00+09:00</lastmod>
@@ -43,24 +73,74 @@
   </url><url>
     <loc>https://hayami.blog/ja/2021/</loc>
     <lastmod>2021-12-31T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2021/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/2021-bonsai-total/</loc>
     <lastmod>2021-12-19T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hayami.blog/ja/2020/</loc>
     <lastmod>2020-12-31T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2020/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/honorific-converter/</loc>
     <lastmod>2020-11-24T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://hayami.blog/ja/2019/</loc>
     <lastmod>2019-12-31T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2019/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/2019-bonsai-total/</loc>
     <lastmod>2019-12-21T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/2019-bonsai-total/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/2019-bonsai-total/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/zoome/</loc>
     <lastmod>2019-05-07T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/zoome/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/zoome/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/2018/</loc>
     <lastmod>2018-12-31T00:00:00+09:00</lastmod>
@@ -119,6 +199,16 @@
   </url><url>
     <loc>https://hayami.blog/ja/vr-zone-shinjuku/</loc>
     <lastmod>2018-06-04T00:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hayami.blog/en/vr-zone-shinjuku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://hayami.blog/ja/vr-zone-shinjuku/"
+                />
   </url><url>
     <loc>https://hayami.blog/ja/asama-autocamp/</loc>
     <lastmod>2018-06-01T00:00:00+09:00</lastmod>

@@ -22,13 +22,13 @@
     <loc>https://hayami.blog/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://hayami.blog/ja/"
+                hreflang="en"
+                href="https://hayami.blog/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://hayami.blog/en/"
+                hreflang="ja"
+                href="https://hayami.blog/ja/"
                 />
     <xhtml:link
                 rel="alternate"

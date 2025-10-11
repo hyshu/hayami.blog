@@ -1,6 +1,6 @@
 +++
 date = "2018-06-01T00:00:00+09:00"
-title = "Went Camping at Mount Asama"
+title = "Camped at Mount Asama"
 pagetitle = "Camped at Asama-en Auto Campground"
 description = ""
 ogimage = "asama-autocamp/ogp.jpg"

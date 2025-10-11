@@ -1,6 +1,6 @@
 +++
 date = "2019-05-07T00:00:00+09:00"
-title = "Founded zoome"
+title = "zoome Founded"
 description = "zoome LLC"
 ogimage = "zoome/ogp.png"
 keywords = ["zoome.co.jp", "zoome"]

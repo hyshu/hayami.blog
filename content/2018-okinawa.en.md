@@ -1,6 +1,6 @@
 +++
 date = "2018-03-11T00:00:00+09:00"
-title = "I Went to Tokashiki Island"
+title = "Went to Tokashiki Island"
 pagetitle = "【Kerama Blue Sea】I Went to Tokashiki Island"
 description = "I went to Tokashiki Island"
 ogimage = "2018-okinawa/ogp.jpg"

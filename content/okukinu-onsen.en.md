@@ -1,6 +1,6 @@
 +++
 date = "2018-07-14T00:00:00+09:00"
-title = "I went to Okukinu Onsen"
+title = "Went to Okukinu Onsen"
 pagetitle = "【Okukinu Onsen】Deeper in the mountains than Kinugawa - I went to Kaniyu Ryokan"
 description = ""
 ogimage = "okukinu-onsen/ogp.jpg"

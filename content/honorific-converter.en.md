@@ -1,6 +1,6 @@
 +++
 date = "2020-11-24T00:00:00+09:00"
-title = "Released Honorific Converter"
+title = "Honorific Converter Released"
 description = ""
 ogimage = "honorific-converter/ogp.png"
 +++

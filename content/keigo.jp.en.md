@@ -1,6 +1,6 @@
 +++
 date = "2022-01-16T00:00:00+09:00"
-title = "Launched Keigo.jp"
+title = "Japanese honorifics learning blog Launched"
 description = ""
 ogimage = "keigo.jp/ogp.png"
 +++

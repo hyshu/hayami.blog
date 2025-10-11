@@ -1,6 +1,6 @@
 +++
 date = "2018-05-12T00:00:00+09:00"
-title = "I Went to Kusatsu Onsen"
+title = "Went to Kusatsu Onsen"
 pagetitle = "I Went to Kusatsu Onsen"
 description = ""
 ogimage = "kusatsu-onsen/ogp.jpg"

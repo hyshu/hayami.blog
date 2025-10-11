@@ -1,6 +1,6 @@
 +++
 date = "2023-02-01T00:00:00+09:00"
-title = "Released Batty"
+title = "Batty Released"
 pagetitle = "Released Batty, a Location Sharing SNS"
 description = ""
 ogimage = "batty/ogp.png"

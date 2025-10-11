@@ -1,6 +1,6 @@
 +++
 date = "2024-02-14T00:00:00+09:00"
-title = "Started the AITuber Project"
+title = "AITuber Project Started"
 description = ""
 ogimage = "aituber/ogp.png"
 keywords = ["AITuber"]

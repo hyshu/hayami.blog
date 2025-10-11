@@ -1,7 +1,7 @@
 +++
 date = "2018-08-18T00:00:00+09:00"
-title = "I Climbed Mount Fuji"
-pagetitle = "I Climbed Mount Fuji"
+title = "Climbed Mount Fuji"
+pagetitle = "Climbed Mount Fuji"
 description = ""
 ogimage = "mt-fuji/ogp.jpg"
 keywords = []
